@@ -1,1 +1,1 @@
-# Tana project
+# TanaMage project
